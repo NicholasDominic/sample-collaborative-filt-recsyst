@@ -30,6 +30,8 @@ Internal documentations can be found within the code (redirect to **docs/main_ip
 2. Activate your VENV and install all packages (from `requirements.txt` file).
 3. To run the app, execute this command: `streamlit run main.py`.
 
+![](https://github.com/NicholasDominic/sample-collaborative-filt-recsyst/blob/main/pics/run_streamlit.png)
+
 ## Remarks
 - Due to limited datasets, the result may seems inaccurate (or even `nan`).
 - For forthcoming works, kNN can be used to measure the similarity distance between items.
