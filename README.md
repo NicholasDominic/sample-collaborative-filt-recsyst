@@ -22,7 +22,7 @@
 Check folder **datasets/** for more info.
 
 ## Methodology
-Internal documentations can be found within the code (redirect to *docs/main_ipynb.pdf*).
+Internal documentations can be found within the code (redirect to **docs/main_ipynb.pdf**).
 1. ...
 
 ## How to Run the App (Streamlit)
