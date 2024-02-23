@@ -23,7 +23,10 @@ Check folder **datasets/** for more info.
 
 ## Methodology
 Internal documentations can be found within the code (redirect to **docs/main_ipynb.pdf**).
-1. ...
+1. All datasets were loaded and preprocessed (e.g., impute missing values, if any).
+2. All tables were joined and then pivoted to create a raw distance matrix.
+3. Cosine similarity was used to find correlation between items.
+4. 
 
 ## How to Run the App (Streamlit)
 1. Create the Python virtual environment (VENV) first: `python -m venv <VENV_NAME>`.
