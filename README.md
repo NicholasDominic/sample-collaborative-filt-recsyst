@@ -22,7 +22,8 @@
 Check folder **datasets/** for more info.
 
 ## Methodology
-...
+Internal documentations can be found within the code (redirect to *docs/main_ipynb.pdf*).
+1. ...
 
 ## How to Run the App (Streamlit)
 1. Create the Python virtual environment (VENV) first: `python -m venv <VENV_NAME>`.
@@ -30,9 +31,8 @@ Check folder **datasets/** for more info.
 3. To run the app, execute this command: `streamlit run main.py`.
 
 ## Remarks
-- ...
-- ...
-- ...
+- Due to limited datasets, the result may seems inaccurate (or even `nan`).
+- For forthcoming works, kNN can be used to measure the similarity distance between items.
 
 ## Contact
 - Email: nicholas.dominic@binus.ac.id
