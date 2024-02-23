@@ -25,9 +25,9 @@ Check folder **datasets/** for more info.
 ...
 
 ## How to Run the App (Streamlit)
-1. Create the Python virtual environment first: `python -m venv <VENV_NAME>`.
-3. ...
-4. 
+1. Create the Python virtual environment (VENV) first: `python -m venv <VENV_NAME>`.
+2. Activate your VENV and install all packages (from `requirements.txt` file).
+3. To run the app, execute this command: `streamlit run main.py`.
 
 ## Remarks
 - ...
