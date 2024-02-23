@@ -19,6 +19,12 @@
 | OS | Windows 11 64-bit (10.0, Build 22621) |
 
 ## Dataset
-Check folder datasets/ for more info.
+Check folder **datasets/** for more info.
 
-## 
+## Methodology
+...
+
+## How to Run the App (Streamlit)
+1. ...
+2. ...
+3. 
