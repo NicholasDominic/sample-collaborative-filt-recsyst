@@ -33,6 +33,8 @@ Internal documentations can be found within the code (redirect to **docs/main_ip
 ![](https://github.com/NicholasDominic/sample-collaborative-filt-recsyst/blob/main/pics/run_streamlit.png)
 
 ## App Display
+Notice that the highlighted red box is for the user's inputs.
+
 ![](https://github.com/NicholasDominic/sample-collaborative-filt-recsyst/blob/main/pics/terra_store_app.png)
 
 ## Remarks
