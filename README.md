@@ -32,6 +32,9 @@ Internal documentations can be found within the code (redirect to **docs/main_ip
 
 ![](https://github.com/NicholasDominic/sample-collaborative-filt-recsyst/blob/main/pics/run_streamlit.png)
 
+## App Display
+![](https://github.com/NicholasDominic/sample-collaborative-filt-recsyst/blob/main/pics/terra_store_app.png)
+
 ## Remarks
 - Due to limited datasets, the result may seems inaccurate (or even `nan`).
 - For forthcoming works, kNN can be used to measure the similarity distance between items.
